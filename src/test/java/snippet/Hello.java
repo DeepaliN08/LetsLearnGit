@@ -5,6 +5,9 @@ public class Hello {
 		System.out.println("********************************");
 		System.out.println("This is Hello World Program........");
 		System.out.println("********************************");
+		System.out.println("********************************");
+		System.out.println("This is Hello World Program........");
+		System.out.println("********************************");
 			
 	}
 }
